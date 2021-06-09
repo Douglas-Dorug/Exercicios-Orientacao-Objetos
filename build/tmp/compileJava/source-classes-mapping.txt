@@ -1,4 +1,8 @@
-exercicios/carro/EntrarCarro.java
- exercicios.carro.EntrarCarro
-exercicios/carro/Carro.java
- exercicios.carro.Carro
+exercicios/exercicio_1/carro/Carro.java
+ exercicios.exercicio_1.carro.Carro
+exercicios/exercicio_1/carro/EntrarCarro.java
+ exercicios.exercicio_1.carro.EntrarCarro
+exercicios/exercicio_2/Carro.java
+ exercicios.exercicio_2.Carro
+exercicios/exercicio_2/TesteDaClasse.java
+ exercicios.exercicio_2.TesteDaClasse

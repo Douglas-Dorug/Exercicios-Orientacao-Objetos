@@ -1,4 +1,4 @@
-package exercicios.carro;
+package exercicios.exercicio_1.carro;
 
 import java.util.Scanner;
 

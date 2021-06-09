@@ -1,4 +1,4 @@
-package exercicios.carro;
+package exercicios.exercicio_1.carro;
 
 public class Carro {
     private String carro = "Carro";
